@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 ## About Me
-Senior QA Engineer con experiencia en automatización y pruebas de software.
+Software Engineer con experiencia en desarrollo y automatización de software.
 
 ### 🛠️ Tecnologías
 - Pruebas Automatizadas
